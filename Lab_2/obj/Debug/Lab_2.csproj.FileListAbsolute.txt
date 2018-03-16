@@ -1,0 +1,6 @@
+D:\A.ThucTap_FPT\Demo\Lab_2\Lab_2\bin\Debug\Lab_2.exe.config
+D:\A.ThucTap_FPT\Demo\Lab_2\Lab_2\bin\Debug\Lab_2.exe
+D:\A.ThucTap_FPT\Demo\Lab_2\Lab_2\bin\Debug\Lab_2.pdb
+D:\A.ThucTap_FPT\Demo\Lab_2\Lab_2\obj\Debug\Lab_2.csprojResolveAssemblyReference.cache
+D:\A.ThucTap_FPT\Demo\Lab_2\Lab_2\obj\Debug\Lab_2.exe
+D:\A.ThucTap_FPT\Demo\Lab_2\Lab_2\obj\Debug\Lab_2.pdb
